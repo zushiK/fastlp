@@ -1,0 +1,21 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Usage Tech
+
+## Frontend
+- Tailwind
+- Mantine UI
+- Next.js SSG
+- React
+- Typescript
+- HTML
+- SCSS
+
+## Tool
+- Git(Github)
+- Github Actions
+- Bun
