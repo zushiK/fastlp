@@ -5,8 +5,6 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: process.env.NODE_ENV === "production" ? "/fastlp" : "",
-  assetPrefix: process.env.NODE_ENV === "production" ? "/fastlp/" : "",
   trailingSlash: true,
 };
 
